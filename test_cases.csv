@@ -1,0 +1,7 @@
+statement,expected_category
+"I am happy with my current electricity provider and don't want to change.",Happy With Current Provider
+"I am not interested, thank you.",Not Interested
+"I would like to see if I can get a better electricity deal.",Wants Comparison
+"Please remove my number from your calling list.",Not Interested
+"I am willing to compare my current electricity bill.",Wants Comparison
+"I don't want to switch providers.",Not Interested.
